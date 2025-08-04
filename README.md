@@ -65,21 +65,6 @@ I made 4 versions of it:-
 ![Recognised](rec.png)
 
 ## Latest version detail
-) (simple authentication GUI)
-- V2.0 (added face recognition to v1.0)
-- V2.1 (trial version of v2.0)
-- V3.0 (added location & image sharing to 2.0)
-
-
-## Images as proof
-
-> [!CAUTION]
-> You can't open other apps,task manager.
-![Not recognised](unreclock.png)
-
-![Recognised](rec.png)
-
-## Latest version detail
 
 1. Unlocks hidden and locked folder(containing facial references encoded file)
 2. Takes Photo from camera
