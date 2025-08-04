@@ -50,10 +50,10 @@ This is a python(3.10.0) based software which recognises your face(known) and al
 ## Versions
 I made 4 versions of it:-
 
-- [V1.0](#latest-version-detail) (simple authentication GUI)
+- V1.0 (simple authentication GUI)
 - V2.0 (added face recognition to v1.0)
 - V2.1 (trial version of v2.0)
-- V3.0 (added location & image sharing to 2.0)
+- [V3.0](#latest-version-detail) (added location & image sharing to 2.0)
 
 
 ## Images as proof
